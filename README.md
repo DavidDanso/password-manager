@@ -17,6 +17,6 @@ Clone the repository, install the dependencies and start the application
 ## Project Image
 
 ### `Main Screen`
-<img src="https://github.com/DavidDanso/password-manager/blob/master/UI.png" width=600 />
+<img src="https://github.com/DavidDanso/password-manager/blob/master/UI.png" width=400 />
 
 ### Happy Coding!
